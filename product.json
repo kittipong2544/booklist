@@ -1,17 +1,17 @@
 [
   {
-    "index": "Product0",
-    "picture": "http://placehold.it/32x32",
-    "about": "Velit dolore excepteur amet voluptate laboris est ullamco ad deserunt do eiusmod minim dolore. Commodo sunt in irure ipsum pariatur excepteur nisi incididunt enim sunt irure eiusmod consectetur in. Deserunt anim ullamco ea et nisi laboris Lorem anim veniam. Esse pariatur cupidatat qui amet mollit culpa exercitation incididunt ea laborum sint elit exercitation esse.\r\n"
+    "name": "Product0",
+    "imageUrl": "http://placehold.it/32x32",
+    "description": "Velit dolore excepteur amet voluptate laboris est ullamco ad deserunt do eiusmod minim dolore. Commodo sunt in irure ipsum pariatur excepteur nisi incididunt enim sunt irure eiusmod consectetur in. Deserunt anim ullamco ea et nisi laboris Lorem anim veniam. Esse pariatur cupidatat qui amet mollit culpa exercitation incididunt ea laborum sint elit exercitation esse.\r\n"
   },
   {
-    "index": "Product1",
-    "picture": "http://placehold.it/32x32",
-    "about": "Tempor dolor excepteur adipisicing Lorem labore dolore nostrud duis quis officia Lorem occaecat commodo consequat. Sint aliquip do laborum exercitation nostrud esse enim qui tempor adipisicing voluptate reprehenderit ad. Eiusmod est adipisicing cillum elit dolor exercitation eu anim ullamco id. Reprehenderit veniam sunt irure reprehenderit dolore velit. Eu incididunt ullamco consequat duis.\r\n"
+    "name": "Product1",
+    "imageUrl": "http://placehold.it/32x32",
+    "description": "Tempor dolor excepteur adipisicing Lorem labore dolore nostrud duis quis officia Lorem occaecat commodo consequat. Sint aliquip do laborum exercitation nostrud esse enim qui tempor adipisicing voluptate reprehenderit ad. Eiusmod est adipisicing cillum elit dolor exercitation eu anim ullamco id. Reprehenderit veniam sunt irure reprehenderit dolore velit. Eu incididunt ullamco consequat duis.\r\n"
   },
   {
-    "index": "Product2",
-    "picture": "http://placehold.it/32x32",
-    "about": "Commodo enim dolore reprehenderit tempor ut duis ullamco dolor veniam veniam non commodo. In velit consequat reprehenderit velit pariatur non consectetur tempor nisi elit aliquip esse id. Excepteur pariatur eu tempor adipisicing adipisicing esse ut proident. Exercitation et id excepteur consequat nisi nisi labore do anim nulla.\r\n"
+    "name": "Product2",
+    "imageUrl": "http://placehold.it/32x32",
+    "description": "Commodo enim dolore reprehenderit tempor ut duis ullamco dolor veniam veniam non commodo. In velit consequat reprehenderit velit pariatur non consectetur tempor nisi elit aliquip esse id. Excepteur pariatur eu tempor adipisicing adipisicing esse ut proident. Exercitation et id excepteur consequat nisi nisi labore do anim nulla.\r\n"
   }
 ]
